@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "The Power of Early Research: Why It's Important for CSE Students to Start Research After Their First Year",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Why students should start research early in their undergraduate career, and how to get started.",
+    url: "https://dev.to/mightyzuby/the-power-of-early-research-why-its-important-for-cse-students-to-start-research-after-their-first-year-59l1",
   },
   {
-    title: "Web Development for Beginners",
+    title: "How Microsoft Azure is Revolutionizing Machine Learning",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Microsoft Azure and its machine learning capabilities are changing the way we think about data science.",
+    url: "https://dev.to/mightyzuby/how-microsoft-azure-is-revolutionizing-machine-learning-1kl1",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://zubiii333.github.io/myportfolio/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "How to stay productive as a Computer Science Student",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Tips to stay productive as a computer science student.",
+    url: "https://dev.to/mightyzuby/how-to-stay-productive-as-a-computer-science-student-35nc",
   },
 ];
 
